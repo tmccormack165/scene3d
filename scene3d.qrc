@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/">
+        <file>AnimatedEntity.qml</file>
+        <file>main.qml</file>
+        <file>urchin.jpeg</file>
+        <file>dolphin.gif</file>
+        <file>ocean.gif</file>
+        <file>quiz.gif</file>
+        <file>utility.js</file>
+        <file>cape_blender.obj</file>
+        <file>cape_fusion.stl</file>
+        <file>CapeEntity.qml</file>
+        <file>ri.stl</file>
+        <file>portland_thin.stl</file>
+        <file>portland.stl</file>
+        <file>ri_thin.stl</file>
+        <file>manomet.jpg</file>
+        <file>prudence.jpg</file>
+        <file>capeElizabeth.jpg</file>
+        <file>capeee.JPG</file>
+        <file>Earth_2K.obj</file>
+        <file>Dolphin.obj</file>
+        <file>shark_01.obj</file>
+        <file>Shark.obj</file>
+        <file>SpermWhaleLowPoly.obj</file>
+        <file>bamboo shark.obj</file>
+    </qresource>
+    <qresource prefix="/images"/>
+</RCC>
